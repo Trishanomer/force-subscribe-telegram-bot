@@ -6,8 +6,8 @@
 
 ## Deploy
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Trishanomer/force-subscribe-telegram-bot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Installing Prerequisite
 - On Ubuntu 18.04 or later
